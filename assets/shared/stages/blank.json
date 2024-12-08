@@ -1,0 +1,9 @@
+{
+	"directory": "cappy",
+	"defaultZoom": 0.75,
+	"isPixelStage": false,
+
+	"boyfriend": [1900, 200],
+	"girlfriend": [1320, 200],
+	"opponent": [500, 200]
+}

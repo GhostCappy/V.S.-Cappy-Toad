@@ -1,0 +1,10 @@
+{
+	"idle_anim": "M Cappy Idle",
+	"image": "Menu_Cappy",
+	"position": [
+		32,
+		-30
+	],
+	"scale": 1,
+	"confirm_anim": "M Cappy HEY"
+}

@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "That's another one off the list! Now, who should I help next...",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop boop?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "boyfriendport"
+		},
+		{
+			"expression": "talk",
+			"text": "Hm?",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Why hello! Did you need my help?",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Boop be ba, bap beep ba bop.",
+			"boxState": "normal",
+			"portrait": "boyfriendport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "A... rap battle? That's not really my thing... but I guess it couldn't hurt to try?",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		}
+	]
+}

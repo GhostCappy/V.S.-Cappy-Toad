@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PotentialEX.png">
+<SubTexture name="PotentialEX Frame40000" x="0" y="0" width="2500" height="1600" frameX="0" frameY="0" frameWidth="2500" frameHeight="1600" />
+<SubTexture name="PotentialEX Frame30000" x="2500" y="0" width="2500" height="1600" frameX="0" frameY="0" frameWidth="2500" frameHeight="1600" />
+<SubTexture name="PotentialEX Frame20000" x="0" y="1600" width="2500" height="1600" frameX="0" frameY="0" frameWidth="2500" frameHeight="1600" />
+<SubTexture name="PotentialEX Frame10000" x="2500" y="1600" width="2000" height="1600" frameX="0" frameY="0" frameWidth="2000" frameHeight="1600" />
+</TextureAtlas>

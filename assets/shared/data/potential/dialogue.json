@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "*huff* Was that ... any better...?",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "Uh",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Probably.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "You really mean it? I'm glad I could help.",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I think I can do one more, what do you say?",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Bro stfu I just wanna rap.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "ltg2",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "My bad.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05,
+			"sound": ""
+		}
+	]
+}

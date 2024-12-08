@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gio.png">
+<SubTexture name="Gio idle0000" x="0" y="0" width="1239" height="1308" frameX="-678" frameY="-866" frameWidth="2308" frameHeight="2228" />
+</TextureAtlas>

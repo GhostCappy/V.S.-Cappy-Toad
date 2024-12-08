@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LTG.png">
+<SubTexture name="LTG idle0000" x="0" y="0" width="225" height="225" frameX="0" frameY="0" frameWidth="225" frameHeight="225" />
+</TextureAtlas>

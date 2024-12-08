@@ -1,0 +1,15 @@
+{
+	"directory": "cappy",
+	"defaultZoom": 0.75,
+	"isPixelStage": false,
+
+	"boyfriend": [900, 120],
+	"girlfriend": [290, 120],
+	"opponent": [20, 50],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [100, 0],
+	"camera_opponent": [120, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

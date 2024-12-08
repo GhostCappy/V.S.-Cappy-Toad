@@ -1,0 +1,50 @@
+{
+	"storyName": "Not so helpful",
+	"difficulties": "Mixed",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1-cap",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Helper Mixed",
+			"cappy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Pressure Mixed",
+			"cappy2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Potential Mixed",
+			"cappy3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"cappy",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Cappy Week"
+}

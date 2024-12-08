@@ -1,0 +1,79 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-48,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "HappyLeft"
+		},
+		{
+			"offsets": [
+				-360,
+				-113
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "HappyRight"
+		},
+		{
+			"offsets": [
+				-66,
+				-151
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "HappyDown"
+		},
+		{
+			"offsets": [
+				-200,
+				-110
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "HappyIdle"
+		},
+		{
+			"offsets": [
+				-134,
+				434
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "HappyUp"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/HappyCappy",
+	"position": [
+		-220,
+		140
+	],
+	"healthicon": "cappy2",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		85,
+		142
+	],
+	"camera_position": [
+		50,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

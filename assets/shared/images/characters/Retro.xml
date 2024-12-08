@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Retro.png">
+<SubTexture name="Retro idle0000" x="0" y="0" width="1105" height="2124" frameX="-534" frameY="-51" frameWidth="2308" frameHeight="2228" />
+</TextureAtlas>

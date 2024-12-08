@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "AllahCappyEX Idle"
+		},
+		{
+			"offsets": [
+				-68,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "AllahCappyEX singLEFT"
+		},
+		{
+			"offsets": [
+				-20,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "AllahCappyEX singRIGHT"
+		},
+		{
+			"offsets": [
+				-145,
+				-96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "AllahCappyEX singDOWN"
+		},
+		{
+			"offsets": [
+				-203,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "AllahCappyEX singUP"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/AllahCappyEX",
+	"position": [
+		-160,
+		-30
+	],
+	"healthicon": "allahcappyex",
+	"flip_x": false,
+	"healthbar_colors": [
+		169,
+		57,
+		60
+	],
+	"camera_position": [
+		140,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

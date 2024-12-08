@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [730, 938],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Gio idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Gio",
+	"position": [-220, 70],
+	"healthicon": "gio",
+	"flip_x": false,
+	"healthbar_colors": [115, 85, 142],
+	"camera_position": [-120, -280],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

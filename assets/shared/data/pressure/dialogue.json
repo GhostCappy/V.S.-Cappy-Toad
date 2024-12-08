@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Boop beep ba-",
+			"boxState": "normal",
+			"portrait": "boyfriendport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "nah nah fuck that shit.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "confused",
+			"text": "That shit was HORRIBLE. And I didn't even hear no genesis soundfont or nothing.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "Oh... I see.",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "I'm really sorry. I'll try to do better this time.",
+			"boxState": "normal",
+			"portrait": "cappyport",
+			"speed": 0.03,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah do that."
+		}
+	]
+}

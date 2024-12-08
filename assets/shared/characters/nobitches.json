@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				91,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ari AriLEFT"
+		},
+		{
+			"offsets": [
+				100,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Ari AriDOWN"
+		},
+		{
+			"offsets": [
+				-6,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Ari AriUP"
+		},
+		{
+			"offsets": [
+				60,
+				47
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Ari AriRIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Ari AriIDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NO_BITCHES",
+	"position": [
+		100,
+		100
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		233,
+		154,
+		205
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

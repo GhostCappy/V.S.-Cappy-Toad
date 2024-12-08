@@ -1,0 +1,124 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-206,
+				-106
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bfcappy singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-193,
+				-110
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bfcappy singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-208,
+				-110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bfcappy singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				-113
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bfcappy singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-201,
+				-110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bfcappy Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-208,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "bfcappy CAPPY RIGHT MISS"
+		},
+		{
+			"offsets": [
+				-190,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "bfcappy CAPPY LEFT MISS"
+		},
+		{
+			"offsets": [
+				-193,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "bfcappy CAPPY UP MISS"
+		},
+		{
+			"offsets": [
+				-205,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "bfcappy CAPPY DOWN MISS"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/bfcappy",
+	"position": [
+		-260,
+		70
+	],
+	"healthicon": "cappy",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		85,
+		142
+	],
+	"camera_position": [
+		-80,
+		280
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

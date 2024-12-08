@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GioTemp2.png">
+<SubTexture name="GioTemp2 down0000" x="0" y="1364" width="1186" height="1290" frameX="-44" frameY="-72" frameWidth="1296" frameHeight="1378" />
+<SubTexture name="GioTemp2 idle0000" x="2371" y="0" width="1239" height="1308" frameX="-678" frameY="-866" frameWidth="2308" frameHeight="2228" />
+<SubTexture name="GioTemp2 left0000" x="1153" y="0" width="1218" height="1323" frameX="0" frameY="-27" frameWidth="1296" frameHeight="1378" />
+<SubTexture name="GioTemp2 right0000" x="1186" y="1364" width="1207" height="1279" frameX="0" frameY="-65" frameWidth="1296" frameHeight="1378" />
+<SubTexture name="GioTemp2 up0000" x="0" y="0" width="1153" height="1364" frameX="-35" frameY="0" frameWidth="1296" frameHeight="1378" />
+</TextureAtlas>

@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-200, -110],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CappyEX SEXIdle"
+		},
+		{
+			"offsets": [-208, -110],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CappyEX SEXLeft"
+		},
+		{
+			"offsets": [-190, -113],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CappyEX SEXRight"
+		},
+		{
+			"offsets": [-205, -106],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CappyEX SEXDown"
+		},
+		{
+			"offsets": [-163, -106],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CappyEX SEXUp"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/CappyEX",
+	"position": [-220, 70],
+	"healthicon": "cappyex",
+	"flip_x": false,
+	"healthbar_colors": [169, 57, 60],
+	"camera_position": [470, 160],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

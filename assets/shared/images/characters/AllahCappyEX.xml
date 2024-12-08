@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AllahCappyEX.png"><SubTexture name="AllahCappyEX singDOWN0000" x="0" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="AllahCappyEX singDOWN0001" x="604" y="0" width="604" height="604" frameX="0" frameY="0" frameWidth="604" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0000" x="1208" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0001" x="1712" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0002" x="0" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0003" x="504" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0004" x="1008" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0005" x="1512" y="604" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0006" x="0" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX Idle0007" x="504" y="1208" width="504" height="604" frameX="0" frameY="0" frameWidth="504" frameHeight="604" />
+<SubTexture name="AllahCappyEX singLEFT0000" x="1008" y="1208" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="AllahCappyEX singLEFT0001" x="1812" y="1208" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="AllahCappyEX singRIGHT0000" x="0" y="1812" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="AllahCappyEX singRIGHT0001" x="804" y="1812" width="804" height="604" frameX="0" frameY="0" frameWidth="804" frameHeight="604" />
+<SubTexture name="AllahCappyEX singUP0000" x="1608" y="1812" width="504" height="804" frameX="0" frameY="0" frameWidth="504" frameHeight="804" />
+<SubTexture name="AllahCappyEX singUP0001" x="2112" y="1812" width="504" height="804" frameX="0" frameY="0" frameWidth="504" frameHeight="804" />
+</TextureAtlas>

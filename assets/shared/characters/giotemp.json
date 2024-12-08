@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [446, 727],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GioTemp2 idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [261, 346],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GioTemp2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [200, 325],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GioTemp2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [244, 327],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GioTemp2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [142, 327],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GioTemp2 right",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/GioTemp2",
+	"position": [-220, 70],
+	"healthicon": "gio",
+	"flip_x": false,
+	"healthbar_colors": [35, 165, 202],
+	"camera_position": [180, -60],
+	"sing_duration": 4,
+	"scale": 0.5,
+	"_editor_isPlayer": false
+}

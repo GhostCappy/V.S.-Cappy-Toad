@@ -1,0 +1,80 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-200,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cappy AnxiousSexIdle"
+		},
+		{
+			"offsets": [
+				-208,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cappy AnxiousSexLeft"
+		},
+		{
+			"offsets": [
+				-190,
+				-113
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cappy AnxiousSexRight"
+		},
+		{
+			"offsets": [
+				-196,
+				-101
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cappy AnxiousSexDown"
+		},
+		{
+			"offsets": [
+				-152,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cappy AnxiousSexUp"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Cappy2",
+	"position": [
+		-220,
+		70
+	],
+	"healthicon": "cappy2",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		85,
+		142
+	],
+	"camera_position": [
+		480,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

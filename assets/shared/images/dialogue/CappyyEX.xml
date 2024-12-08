@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CappyyEX.png">
+<SubTexture name="CappyyEX AngryEX0000" x="0" y="0" width="279" height="248" frameX="-30" frameY="-15" frameWidth="358" frameHeight="263" />
+</TextureAtlas>

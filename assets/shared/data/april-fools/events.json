@@ -1,0 +1,65 @@
+{
+	"events": [
+		[
+			18900,
+			[
+				["Change Character", "Dad", "ari"]
+			]
+		],
+		[
+			38400,
+			[
+				["Change Character", "Dad", "retro"]
+			]
+		],
+		[
+			57150,
+			[
+				["Change Character", "Dad", "gio"]
+			]
+		],
+		[
+			60000,
+			[
+				["Change Character", "Dad", "retro"]
+			]
+		],
+		[
+			62400,
+			[
+				["Change Character", "Dad", "gio"]
+			]
+		],
+		[
+			64800,
+			[
+				["Change Character", "Dad", "retro"]
+			]
+		],
+		[
+			76800,
+			[
+				["Change Character", "Dad", "gio"]
+			]
+		],
+		[
+			79200,
+			[
+				["Change Character", "Dad", "retro"]
+			]
+		],
+		[
+			81600,
+			[
+				["Change Character", "Dad", "ari"]
+			]
+		],
+		[
+			96000,
+			[
+				["Change Character", "Dad", "retro"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

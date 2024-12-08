@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="AllahCappu.png">
+<SubTexture name="AllahCappu Dialouge0000" x="0" y="0" width="285" height="248" frameX="-26" frameY="-15" frameWidth="358" frameHeight="263" />
+</TextureAtlas>

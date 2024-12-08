@@ -1,0 +1,23 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [719, 768],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Retro idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Retro",
+	"position": [-220, 70],
+	"healthicon": "retro",
+	"flip_x": false,
+	"healthbar_colors": [115, 85, 142],
+	"camera_position": [50, 10],
+	"sing_duration": 4,
+	"scale": 0.35,
+	"_editor_isPlayer": false
+}

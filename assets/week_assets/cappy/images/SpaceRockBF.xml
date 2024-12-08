@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SpaceRockBF.png">
+<SubTexture name="SpaceRockBF idle0000" x="0" y="0" width="995" height="658" frameX="-1708" frameY="-945" frameWidth="2771" frameHeight="1702" />
+</TextureAtlas>

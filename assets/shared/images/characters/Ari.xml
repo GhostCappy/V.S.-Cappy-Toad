@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ari.png"><SubTexture name="Ari AriDOWN 10000" x="0" y="0" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriDOWN 20000" x="704" y="0" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriIDLE 10000" x="1408" y="0" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 20000" x="1912" y="0" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 30000" x="0" y="804" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 40000" x="504" y="804" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 50000" x="1008" y="804" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 60000" x="1512" y="804" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 70000" x="0" y="1508" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriIDLE 80000" x="504" y="1508" width="504" height="704" frameX="0" frameY="0" frameWidth="504" frameHeight="704" />
+<SubTexture name="Ari AriLEFT 10000" x="1008" y="1508" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriLEFT 20000" x="1712" y="1508" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriRIGHT 10000" x="0" y="2312" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriRIGHT 20000" x="704" y="2312" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriUP 10000" x="1408" y="2312" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+<SubTexture name="Ari AriUP 20000" x="2112" y="2312" width="704" height="804" frameX="0" frameY="0" frameWidth="704" frameHeight="804" />
+</TextureAtlas>

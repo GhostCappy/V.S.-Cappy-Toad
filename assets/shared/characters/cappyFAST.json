@@ -1,0 +1,55 @@
+{
+	"animations": [
+		{
+			"offsets": [-200, -110],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Cappy SeriousCappyIdle"
+		},
+		{
+			"offsets": [-208, -110],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Cappy SeriousCappyLeft"
+		},
+		{
+			"offsets": [-190, -113],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Cappy SeriousCappyRight"
+		},
+		{
+			"offsets": [-193, -110],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Cappy SeriousCappyUp"
+		},
+		{
+			"offsets": [-175, -106],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Cappy SeriousCappyDown"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Cappy3",
+	"position": [-220, 70],
+	"healthicon": "cappy3",
+	"flip_x": true,
+	"healthbar_colors": [115, 85, 142],
+	"camera_position": [480, 160],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": false
+}

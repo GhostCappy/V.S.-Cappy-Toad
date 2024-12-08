@@ -1,0 +1,41 @@
+{
+	"storyName": "Extras",
+	"difficulties": "Mixed",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Capi Mixed",
+			"kapi",
+			[
+				126,
+				113,
+				113
+			]
+		],
+		[
+			"Caturn Mixed",
+			"ari",
+			[
+				246,
+				173,
+				113
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "z-CappyExtra",
+	"hiddenUntilUnlocked": false
+}

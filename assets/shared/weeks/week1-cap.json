@@ -1,0 +1,50 @@
+{
+	"storyName": "Wandering Helper",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"cappy",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Helper",
+			"cappy",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Pressure",
+			"cappy2",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Potential",
+			"cappy3",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Cappy Week",
+	"hiddenUntilUnlocked": false
+}

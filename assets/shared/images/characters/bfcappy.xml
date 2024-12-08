@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bfcappy.png"><SubTexture name="bfcappy CAPPY dies0000" x="0" y="0" width="704" height="804" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy Idle0000" x="704" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy Idle0001" x="1208" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy Idle0002" x="1712" y="0" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy Idle0003" x="0" y="804" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY DOWN MISS0000" x="504" y="804" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY DOWN MISS0001" x="1008" y="804" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY LEFT MISS0000" x="1512" y="804" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY LEFT MISS0001" x="0" y="1408" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY RIGHT MISS0000" x="504" y="1408" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY RIGHT MISS0001" x="1008" y="1408" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY UP MISS0000" x="1512" y="1408" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy CAPPY UP MISS0001" x="0" y="2012" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singDOWN0000" x="504" y="2012" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singDOWN0001" x="1008" y="2012" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singLEFT0000" x="1512" y="2012" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singLEFT0001" x="0" y="2616" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singRIGHT0000" x="504" y="2616" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singRIGHT0001" x="1008" y="2616" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singUP0000" x="1512" y="2616" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+<SubTexture name="bfcappy singUP0001" x="0" y="3220" width="504" height="604" frameX="0" frameY="0" frameWidth="450" frameHeight="400" />
+</TextureAtlas>
